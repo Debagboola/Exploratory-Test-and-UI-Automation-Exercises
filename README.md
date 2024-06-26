@@ -44,6 +44,13 @@ below is the detailed test suite that contains the test scenarios I have been ab
 | Sign In    | Confirm that a valid user cannot successfully sign in to the portal with an invalid password    |1. Go to "https://sandbox.fincra.com/" and click on Sign-In. 2. Sign-In using the following credentials: Username: qa@testing.com Password: 456ddff  | okay    | pass |
 | Sign In    | Confirm that a user cannot successfully sign in to the portal by submitting without inputing any data   |1. Go to "https://sandbox.fincra.com/" and click on Sign-In. 2. Sign-In using the following credentials: Username: Password: | okay    | pass |
 | Access Landing Page after sign in     | Confirm that a valid user is rerouted to dashboard after successful sign in    | sign in successfully    | okay     | pass  |
+| Log out after successful sign in     | Confirm that a valid user can successfully log out | click "log out"     | okay     | pass  |
+| Request bank account   | Confirm that a valid user can successfully Request bank account   | -   | untested (blocked by verification)    | untested (blocked by verification)  |
+| Fund your wallet   | Confirm that a valid user can successfully Fund their wallet   | - | untested (blocked by verification)    | untested (blocked by verification)  |
+| Make payouts   | Confirm that a valid user can successfully Make payouts   | - | untested (blocked by verification)    | untested (blocked by verification)  |
+| Make conversions   | Confirm that a valid user can successfully Make conversions   | - | untested (blocked by verification)    | untested (blocked by verification)  |
+| Add beneficiaries  | Confirm that a valid user can successfully MAdd beneficiaries  | - | untested (blocked by verification)    | untested (blocked by verification)  |
+
 
 ## Test Automation Code for Login Functionality
 The test automation code for the login functionality is in this repository alongside the screen recording.
