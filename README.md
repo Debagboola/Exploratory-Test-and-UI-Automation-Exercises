@@ -53,7 +53,8 @@ below is the detailed test suite that contains the test scenarios I have been ab
 
 
 ## Test Automation Code for Login Functionality
-The test automation code for the login functionality is in this repository alongside the screen recording.
+The test automation code for the login functionality is in this repository and the screen recording is below:
+https://github.com/Debagboola/Exploratory-Test-and-UI-Automation-Exercises/assets/40859055/73c78673-a34e-4d7f-9d57-991252bde4dd
 
 ## Feedback
 I am unable to proceed with testing the other features and automating them because i do not have access to the mail assigned for testing and the account is not yet verified. because of this, i was only successfully able to test login and therefore I could only automate the login functionality
