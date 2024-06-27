@@ -54,6 +54,7 @@ below is the detailed test suite that contains the test scenarios I have been ab
 
 ## Test Automation Code for Login Functionality
 The test automation code for the login functionality is in this repository and the screen recording is below:
+
 https://github.com/Debagboola/Exploratory-Test-and-UI-Automation-Exercises/assets/40859055/73c78673-a34e-4d7f-9d57-991252bde4dd
 
 ## Feedback
