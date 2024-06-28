@@ -58,5 +58,5 @@ The test automation code for the login functionality is in this repository and t
 https://github.com/Debagboola/Exploratory-Test-and-UI-Automation-Exercises/assets/40859055/73c78673-a34e-4d7f-9d57-991252bde4dd
 
 ## Feedback
-I am unable to proceed with testing the other features and automating them because i do not have access to the mail assigned for testing and the account is not yet verified. because of this, i was only successfully able to test login and therefore I could only automate the login functionality
+Most of the elements on the web application do not have specific IDs for them, making it difficult to locate the, so i have to find by relative paths.
 
